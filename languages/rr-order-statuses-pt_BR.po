@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RR Order Statuses 1.0.0\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: rr-order-statuses\n"
+
+msgid "RR Order Statuses"
+msgstr "RR Order Statuses"
+
+msgid "Create, rename and remove custom WooCommerce order statuses from one simple screen. Free, no add-ons."
+msgstr "Crie, renomeie e remova status de pedido personalizados do WooCommerce em uma tela simples. Gratuito, sem add-ons."
+
+#, php-format
+msgid "Change status to %s"
+msgstr "Mudar status para %s"
+
+msgid "Order statuses"
+msgstr "Status de pedido"
+
+msgid "Settings"
+msgstr "Configurações"
+
+#, php-format
+msgid "The slug \"%s\" is already in use and was skipped."
+msgstr "O slug \"%s\" já está em uso e foi ignorado."
+
+#, php-format
+msgid "\"%1$s\" still has %2$d order(s) and was not removed. Change those orders to another status first."
+msgstr "\"%1$s\" ainda tem %2$d pedido(s) e não foi removido. Mude esses pedidos para outro status antes."
+
+msgid "Your own statuses, in addition to the WooCommerce defaults. To add one, fill in the last row. To remove one, clear its name. The slug never changes once created, because orders store it."
+msgstr "Seus próprios status, além dos padrões do WooCommerce. Para adicionar, preencha a última linha. Para remover, apague o nome. O slug não muda depois de criado, porque os pedidos guardam ele."
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Counts as paid"
+msgstr "Conta como pago"
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgid "New status"
+msgstr "Novo status"
+
+msgid "automatic"
+msgstr "automático"
+
