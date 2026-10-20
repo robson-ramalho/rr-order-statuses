@@ -1,5 +1,5 @@
 === RR Order Statuses ===
-Contributors: robsonramalho
+Contributors: robson.ramalho
 Tags: woocommerce, order status, custom order status, orders
 Requires at least: 6.5
 Tested up to: 7.1
